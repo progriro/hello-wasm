@@ -6,4 +6,4 @@
 
 ## Reference
 
-- [Rust から WebAssembly にコンパイルする](https://developer.mozilla.org/ja/docs/WebAssembly/Rust_to_wasm
+- [Rust から WebAssembly にコンパイルする](https://developer.mozilla.org/ja/docs/WebAssembly/Rust_to_wasm)
