@@ -6,9 +6,10 @@
   </head>
   <body>
     <script type="module">
-      import init, { greet } from "./pkg/hello_wasm.js";
+      import init, { greet, judge } from "./pkg/hello_wasm.js";
       init().then(() => {
         greet("WebAssembly");
+        judge(2, 8);
       });
     </script>
   </body>
